@@ -15,7 +15,7 @@
 
 5.- Cada vez que abrimos la app podemos ver todos los mensajes que se van almacenando
 
-| **4** :bust_in_silhouette:| 
+| **Paso 5️⃣** :bust_in_silhouette:| 
 | ------------- |
 |![myimage-alt-tag](https://user-images.githubusercontent.com/49683650/106551650-af84c580-64e3-11eb-9ba2-f6a6699aed1b.png)|
 
