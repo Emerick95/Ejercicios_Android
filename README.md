@@ -36,10 +36,25 @@ Este README contiene imagenes del cada aplicación realizada en Android Studio l
 |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/Respuesta_e2.jpeg)|
 
 # EJERCICIO 3: Reproducción, pausa, continuación y detención de un archivo de audio.
+1.- Se realiza la interfaz gráfica del ejercicio y se procede a crear las funciones para este ejercico
+
+2.- Creamos las funciones continuar y detener
+
+3.- Se ejecuta la aplicacion y se prueba las fuciones
+
+4.- Se prueba las funciones de Reproducción, pausa, continuación y detención
 | **Paso 1️⃣** :speech_balloon: | **Paso 2️⃣** :bust_in_silhouette: | **Paso 3️⃣** :clapper:|**Paso 4️⃣** :scroll:|
 | ------------- | ------------- | ------------- | ------------- |
 |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/Imagen%20ejercicio3.1.jpeg) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/Imagen%20ejercicio3.2.jpeg)  |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/Resultado2.jpeg)  |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/Resultados1.jpeg) |
 
 # EJERCICIO 4:Grabación de audio mediante el grabador provisto por Android.
+1.- Se realiza la interfaz gráfica del ejercicio  y las funciones del ejercicio
+
+2.- Se ejecuta en el celular.
+| **Paso 1️⃣** :bust_in_silhouette:| **Paso 2️⃣** :bust_in_silhouette:|  
+| ------------- | ------------- |
+|![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/CodigoUsado%20ejercicio4.jpeg)|
+![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/Resultado%20ejercicio4.jpeg)|
+
 
 # EJERCICIO 5:Evento touch: juego del buscaminas.
