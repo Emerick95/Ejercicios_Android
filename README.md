@@ -68,7 +68,7 @@ Este README contiene imagenes del cada aplicación realizada en Android Studio l
 # EJERCICIO 5:Evento touch: juego del buscaminas.
 1.- Creación de interfaz gráfica
 
-2.- Se una clase llamada Casilla
+2.- Se crea una clase llamada Casilla
 
 3.- Inserta el siguiente código en la clase Casilla
 
