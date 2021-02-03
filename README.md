@@ -33,7 +33,7 @@ Este README contiene imagenes del cada aplicación realizada en Android Studio l
 
 | **Paso 5️⃣** :bust_in_silhouette:| 
 | ------------- |
-|![myimage-alt-tag](https://user-images.githubusercontent.com/49683650/106551650-af84c580-64e3-11eb-9ba2-f6a6699aed1b.png)|
+|![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_ejercicios/blob/main/Imagenes/Respuesta_e2.jpeg)|
 
 # EJERCICIO 3: Reproducción, pausa, continuación y detención de un archivo de audio.
 | **Paso 1️⃣** :speech_balloon: | **Paso 2️⃣** :bust_in_silhouette: | **Paso 3️⃣** :clapper:|**Paso 4️⃣** :scroll:|
