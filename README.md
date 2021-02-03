@@ -2,7 +2,7 @@
 
 * ING. JUAN PABLO ZALDUMBIDE 👨🏻‍🏫
 
-#  LOGIN CON GMAIL USANDO IONIC & FIREBASE
+#  EJERCICIOS ANDROID STUDIO
 
 INTEGRANTES DE GRUPO  👨‍💻👩‍💻 👨‍💻👩‍💻 👨‍💻
 - Amoguimba Jessica
@@ -16,6 +16,15 @@ Este README contiene imagenes del cada aplicación realizada en Android Studio l
 
 
 # EJERCICIO 1: Almacenamiento en una base de datos SQLite
+1.- Interfaz gráfica de inicio
+2.- Registro de artículos
+3.- Búsqueda de artículos por código
+4.- Modificar artículo 
+5.- Eliminar artículo
+
+| **Paso 1️⃣** :speech_balloon: | **Paso 2️⃣** :bust_in_silhouette: |
+| ------------- | ------------- |
+|![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/BDDSQLite/CapturasSQLite/Interfaz_Inicio.jpeg) |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/BDDSQLite/CapturasSQLite/Registro.jpeg)  |
 
 # EJERCICIO 2: Almacenamiento de datos en un archivo de texto en la memoria interna
 1.- Se realiza la interfaz gráfica del ejercicio
