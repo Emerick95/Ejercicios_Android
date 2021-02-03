@@ -66,3 +66,15 @@ Este README contiene imagenes del cada aplicación realizada en Android Studio l
 
 
 # EJERCICIO 5:Evento touch: juego del buscaminas.
+1.- Creación de interfaz gráfica
+
+2.- Se una clase llamada Casilla
+
+3.- Inserta el siguiente código en la clase Casilla
+
+4.- Se codifica también en la clase MainActivity
+
+5.- Pasos
+| **Paso 1️⃣** :speech_balloon: | **Paso 2️⃣** :bust_in_silhouette: | **Paso 3️⃣** :clapper:|**Paso 4️⃣** :scroll:|
+| ------------- | ------------- | ------------- | ------------- |
+|![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Clase_Casilla.PNG) |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Clase_Main.PNG)  |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Inicio.jpeg)  |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Ganaste.jpeg) |
