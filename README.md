@@ -75,6 +75,11 @@ Este README contiene imagenes del cada aplicación realizada en Android Studio l
 4.- Se codifica también en la clase MainActivity
 
 5.- Pasos
-| **Paso 1️⃣** :speech_balloon: | **Paso 2️⃣** :bust_in_silhouette: | **Paso 3️⃣** :clapper:|**Paso 4️⃣** :scroll:|
-| ------------- | ------------- | ------------- | ------------- |
-|![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Clase_Casilla.PNG) |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Clase_Main.PNG)  |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Inicio.jpeg)  |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Ganaste.jpeg) |
+| **Paso 1️⃣** :speech_balloon: | **Paso 2️⃣** :bust_in_silhouette: |
+| ------------- | ------------- |
+|![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Clase_Casilla.PNG) |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Clase_Main.PNG)  |
+
+
+| **Paso 3️⃣** :clapper:|**Paso 4️⃣** :scroll:|
+| ------------- | ------------- |
+|![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Inicio.jpeg)  |![myimage-alt-tag](https://github.com/Emerick95/Ejercicios_AndroidStudio_Topicos/blob/main/Juego_Buscaminas/Capturas/Ganaste.jpeg) |
